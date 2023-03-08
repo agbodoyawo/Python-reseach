@@ -1,5 +1,5 @@
 
-![logo](Images/logo DIT.png)
+![logo](Images/logo.png)
 
 
 ## BY AGBODO Yawo
@@ -76,7 +76,8 @@ When an exception is created in order to be raised, it is usually initialized wi
 in the order they were added, after the exception.
 ![logo](Images/image8.png)
 ## 4. Conclusion
-
+Finally, the exceptions are fundamental in programming.  
+It exceptions make the code robust.
 ## 5. Ressources 
 
 [faculty](https://faculty.ksu.edu.sa/sites/default/files/19-exceptionhandling.pdf)
